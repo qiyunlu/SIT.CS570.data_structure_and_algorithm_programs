@@ -9,3 +9,13 @@
 >> 1. the frequency table for the source text
 >> 2. the Huffman code for each letter and digit in the source code, and
 >> 3. the length of the coded message in terms of number of bits
+##### Final Output (Example Values Not Accurate) 
+Symbol  frequency <br>
+  A        15% <br>
+  m        11% <br>
+  7         6% <br>
+Symbol  Huffman Codes <br>
+  A         10101 <br>
+  m          1101 <br>
+  7           111 <br>
+Total Bits: 16005
